@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gayjolt.png">
+<SubTexture name="gamejolt basic0000" x="0" y="0" width="85" height="92" frameX="-304" frameY="-612" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gamejolt basic0001" x="170" y="0" width="88" height="91" frameX="-304" frameY="-613" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gamejolt white0000" x="85" y="0" width="85" height="92" frameX="-304" frameY="-612" frameWidth="1280" frameHeight="720" />
+<SubTexture name="gamejolt white0001" x="0" y="92" width="88" height="91" frameX="-304" frameY="-613" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

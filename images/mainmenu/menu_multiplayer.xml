@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_multiplayer.png">
+<SubTexture name="multiplayer white0000" x="0" y="401" width="635" height="199" frameX="-10" frameY="-9" frameWidth="1280" frameHeight="720" />
+<SubTexture name="multiplayer white0001" x="0" y="0" width="637" height="201" frameX="-9" frameY="-10" frameWidth="1280" frameHeight="720" />
+<SubTexture name="multiplayer basic0000" x="0" y="201" width="597" height="200" frameX="-39" frameY="-5" frameWidth="1280" frameHeight="720" />
+<SubTexture name="multiplayer basic0001" x="637" y="0" width="595" height="195" frameX="-38" frameY="-7" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

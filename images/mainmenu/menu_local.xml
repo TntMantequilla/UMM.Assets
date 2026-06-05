@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_local.png">
+<SubTexture name="local white0000" x="0" y="153" width="223" height="73" frameX="-323" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="local white0001" x="0" y="77" width="227" height="76" frameX="-322" frameY="-169" frameWidth="1280" frameHeight="720" />
+<SubTexture name="local basic0000" x="228" y="0" width="224" height="73" frameX="-323" frameY="-170" frameWidth="1280" frameHeight="720" />
+<SubTexture name="local basic0001" x="0" y="0" width="228" height="77" frameX="-322" frameY="-168" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
